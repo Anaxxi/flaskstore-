@@ -1,0 +1,5 @@
+Olá, {{ email }}
+Obrigado por registrar-se ao Flask Store
+
+Atenciosamente,
+Equipe Flask Store
